@@ -1,6 +1,6 @@
 {
   "name": "nuxt-navi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nuxt.js module for building an Array of navigation routes",
   "license": "MIT",
   "contributors": [
