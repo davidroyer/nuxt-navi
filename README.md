@@ -22,28 +22,29 @@ automically slugifies that title.
 
 1. Add `nuxt-navi` dependency to your project
 
-```bash
-yarn add nuxt-navi # or npm install nuxt-navi
-```
+   ```bash
+   yarn add nuxt-navi # or npm install nuxt-navi
+   ```
 
-2. Add `nuxt-navi` to the `modules` section of `nuxt.config.js`
+2. Add `nuxt-navi` to the `buildModules` section of `nuxt.config.js` if you are
+   using Nuxt **v2.9** or later. Otherwise, use the `modules` section.
 
-```js
-{
-  modules: [
-    // Simple usage
-    "nuxt-navi",
+   ```js
+   {
+     modules: [
+       // Simple usage
+       "nuxt-navi",
 
-    // With options
-    [
-      "nuxt-navi",
-      {
-        /* module options */
-      }
-    ]
-  ];
-}
-```
+       // With options
+       [
+         "nuxt-navi",
+         {
+           /* module options */
+         }
+       ]
+     ];
+   }
+   ```
 
 ## Development
 
