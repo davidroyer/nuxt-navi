@@ -10,6 +10,14 @@
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
+## Overview
+
+This modules takes a YAML file that sets an array of routes and then adds it to
+the Store.
+
+The only required property for each route is `title`. For each route, if no `path` property is set then `nuxt-navi`
+automically slugifies that title.
+
 ## Setup
 
 1. Add `nuxt-navi` dependency to your project
