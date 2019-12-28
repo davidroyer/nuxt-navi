@@ -5,7 +5,7 @@ module.exports = {
     sourceType: "module"
   },
   extends: ["@nuxtjs"],
-  // rules: {
-  //   quotes: ["error", "single", { "allowTemplateLiterals": true }]
-  // }
+  rules: {
+    quotes: ["error", "single", { "allowTemplateLiterals": true }]
+  }
 };
