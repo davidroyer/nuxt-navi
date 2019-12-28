@@ -1,6 +1,6 @@
 {
   "name": "nuxt-navi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nuxt.js module for building an Array of navigation routes",
   "license": "MIT",
   "contributors": [
@@ -17,7 +17,7 @@
     "dev": "nuxt example",
     "lint": "eslint --ext .js,.vue example lib test",
     "test": "yarn lint && jest",
-    "release": "yarn test && standard-version && git push --follow-tags && npm publish"
+    "release": "standard-version && git push --follow-tags && npm publish"
   },
   "files": [
     "lib"
