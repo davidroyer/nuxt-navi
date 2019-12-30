@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "@sindresorhus/slugify": "^0.9.1",
+    "glob": "^7.1.6",
     "js-yaml-loader": "^1.2.2"
   },
   "devDependencies": {
