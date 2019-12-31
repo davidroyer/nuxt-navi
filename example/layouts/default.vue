@@ -5,7 +5,10 @@
         {{ navItem.title }}
       </nuxt-link>
     </nav>
-    <pre>{{ this.$nav }}</pre>
+    <hr>
+    <pre>{{ $store.state.nav }}</pre>
+
+    <!-- <pre>{{ this.$nav }}</pre> -->
     <nuxt />
   </div>
 </template>

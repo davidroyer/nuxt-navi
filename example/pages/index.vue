@@ -1,8 +1,8 @@
 <template>
   <div>
     Works!
-    <pre>{{ $store.state.nav }}</pre>
-    <pre>{{ $store.state.naviOptions }}</pre>
+    <!-- <pre>{{ $store.state.nav }}</pre>
+    <pre>{{ $store.state.naviOptions }}</pre> -->
   </div>
 </template>
 
