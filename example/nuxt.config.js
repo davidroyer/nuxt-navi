@@ -35,7 +35,7 @@ module.exports = {
   ],
 
   navi: {
-    // autoNav: true
-    src: 'config/nav.yml'
+    autoNav: true
+    // src: 'config/nav.yml'
   }
 }

@@ -7,7 +7,7 @@
 <script>
 export default {
   head () {
-    return this.$createSeo()
+    // return this.$createSeo()
   }
 }
 </script>

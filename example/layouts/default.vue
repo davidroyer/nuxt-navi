@@ -6,9 +6,9 @@
       </nuxt-link>
     </nav>
     <hr>
-    <pre>{{ $store.state.nav }}</pre>
-
-    <!-- <pre>{{ this.$nav }}</pre> -->
+    <!-- <pre>{{ $store.state.nav }}</pre> -->
+    <h2>$auto</h2>
+    <pre>{{ this.$auto }}</pre>
     <nuxt />
   </div>
 </template>
@@ -17,7 +17,7 @@
 export default {
   mounted () {
     // eslint-disable-next-line no-console
-    console.log('this.nav', this.$nav)
+    console.log('this.$auto', this.$auto)
   }
 }
 </script>
