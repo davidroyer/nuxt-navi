@@ -2,8 +2,12 @@
   path: /
 
 - title: Page 2
+  description: Description for page 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, optio?
 
 - title: Page 3
+  description: Description for page 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, optio?
 
 - title: Page 4
+  description: Description for page 4. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, optio?
+
 

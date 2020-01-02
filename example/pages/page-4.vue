@@ -6,7 +6,9 @@
 
 <script>
 export default {
-
+  head () {
+    return this.$createSeo()
+  }
 }
 </script>
 
