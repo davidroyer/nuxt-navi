@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/davidroyer/nuxt-navi/compare/v0.0.2...v0.0.3) (2020-01-02)
+
+
+### Features
+
+* adds base of what will be `autoNav` ([d3deaa9](https://github.com/davidroyer/nuxt-navi/commit/d3deaa93d5d99bc9fd08067b2b71879f13afae73))
+* **auto:** adds fully functioning auto nav ([e9b3d19](https://github.com/davidroyer/nuxt-navi/commit/e9b3d197b26e3dd560eb621eee89262c22209de2))
+
+
+### Bug Fixes
+
+* **autonav:** fixes issue of nav updates ([2d8668a](https://github.com/davidroyer/nuxt-navi/commit/2d8668a310876d96aec7c2f98b82cfae64c93432))
+
 ### [0.0.2](https://github.com/davidroyer/nuxt-navi/compare/v0.0.1...v0.0.2) (2019-12-28)
 
 
